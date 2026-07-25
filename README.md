@@ -1,9 +1,8 @@
 # Fractal Visualizer
 
-<img width="960" height="516" alt="Screenshot 2026-07-25 154845" src="https://github.com/user-attachments/assets/3f841676-8feb-42a3-a85d-02a53494658d" />
-
-
 A Java desktop application for generating and exploring mathematical fractals. The application supports recursive fractal trees, Mandelbrot sets, and Julia sets with interactive controls, multithreaded rendering, and real-time visualization.
+
+<img width="960" height="516" alt="Screenshot 2026-07-25 154845" src="https://github.com/user-attachments/assets/3f841676-8feb-42a3-a85d-02a53494658d" />
 
 ## Overview
 
