@@ -38,8 +38,7 @@ Fractal-Visualizer/
 │
 ├── FractalAppExt.java
 ├── README.md
-├── LICENSE
-└── .gitignore
+└── LICENSE
 ```
 
 ## Supported Fractals
